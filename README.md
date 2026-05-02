@@ -59,4 +59,5 @@ To develop a machine learning model capable of predicting loan default risk usin
 - Retrain the model including numerical features
 - Deploy the dashboard publicaly using Streamlit Cloud
 
-
+## LinkedIn Account
+LinkedIn: https://www.linkedin.com/in/saloni-g-a6629139b
